@@ -334,7 +334,7 @@ font-weight: 900;}
 
 
 
-.home{background-image: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 1), rgba(0, 0, 0, 1)) url(work.jpeg);
+.home{background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)) url(work.jpeg);
 background-repeat: no-repeat;
 background-size: cover;
 height: 100vh;
