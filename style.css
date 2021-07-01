@@ -345,7 +345,7 @@ font-weight: 900;}
 
 /* media query */
 
-@media(min-width: 100px){
+@media(min-width: 900px){
     .header li{
         float: left;
     }
