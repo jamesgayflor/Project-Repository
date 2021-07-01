@@ -335,7 +335,14 @@ font-weight: 900;}
 
 
 
+.home{background-image: url(work.jpeg);
+background-repeat: no-repeat;
+background-size: cover;
+height: 100vh;
+width: 100%;
+}
 
+.home h1{color: yellow;}
 
 
 
