@@ -389,7 +389,7 @@ font-weight: 900;}
         right: 0;
         width: 100%;
         height: 100vh;
-        background-image: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0,0,0,0.45)), Url(work.jpeg); 
+        background-image: Url(work.jpeg); 
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
